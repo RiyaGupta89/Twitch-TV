@@ -36,3 +36,12 @@
     padding-left: 10px;
     padding-right: 5px;
 }
+
+.sidebar__bottom>div>input {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    font-size: large;
+    width: 100%;
+    margin-left:10px;
+}
