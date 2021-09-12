@@ -17,7 +17,7 @@ function RecentItem({ url, title }) {
          <div className="item__DetailsText">
              <h4>{title}</h4>
              <p>MLH</p>
-             <p>Science & Technology</p>
+             <p>Technology</p>
          </div>
      </div>
     </div>

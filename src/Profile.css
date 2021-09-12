@@ -63,10 +63,14 @@
 
 .profile__recent {
     margin-left: 40px;
+    padding-left: 40px;
+    padding-right: 80px;
 }
 
 .profile__recentItems {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 .profile__categories {
@@ -79,4 +83,8 @@
 
 .profile__categories>h3 {
     margin-top: 10px;
+}
+
+.profile__categories>img {
+    width: 500px;
 }

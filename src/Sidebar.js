@@ -42,7 +42,7 @@ export default function Sidebar() {
       <div className="sidebar__bottom">
         <div className="sidebar__bottomContainer">
           <i className="fas fa-search"></i>
-          <input type="text" placeholder="Search to Add Friends"/>
+          <input type="text" placeholder="Search to add friends"/>
         </div>
       </div>
     </div>

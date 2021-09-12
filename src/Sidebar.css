@@ -1,6 +1,6 @@
 .sidebar {
     padding: 10px;
-    width: 13%;
+    width: 16%;
     background-color: #1f1f23;
     display: flex;
     flex-direction: column;
@@ -26,6 +26,7 @@
     height: 4rem;
     display: flex;align-items: center;justify-content: center;
     border-top: 1px solid #4f4f52;
+    width: 16%;
 }
 
 .sidebar__bottomContainer {
@@ -41,7 +42,7 @@
     background-color: transparent;
     border: none;
     outline: none;
-    font-size: large;
+    font-size: 16px;
     width: 100%;
     margin-left:10px;
 }
